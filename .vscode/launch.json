@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DatabaseConnection",
+            "request": "launch",
+            "mainClass": "DatabaseConnection",
+            "classPaths": [
+                "lib/mysql-connector-java-8.0.xx.jar"
+            ]
+        }
+    ]
+}
